@@ -6,6 +6,6 @@ This repo contains:
 - *main.ipynb*, the notebook where all the magic happens;
 - *report.pdf*, the submitted report which summarizes what I've done and the conclusions I drawn.
 ---
-**Skills**: data analysis, feature engineering, model selection, competitive problem solving
+**Skills**: data analysis, feature engineering, model selection, competitive problem solving  
 **Language**: Python (PyTorch, Scikit-learn, Pandas, Matplotlib, Seaborn)
 
