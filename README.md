@@ -1,6 +1,7 @@
-# How Much Is Your House?  
+# House Price Predictor 
 Originally undertaken as part of a student competition during my bachelor's course, this project showcases how advanced machine learning techniques can be applied to solve real-world challenges.  
 Armed with a dataset of more than 45,000 houses in Italy, each with their corresponding features and prices, our mission was to devise an accurate model capable of predicting house prices.  
+Eventually, I deployed the final model through an [interactive webapp](https://house-price-predictor.streamlit.app/).
 
 This repo contains:
 - *main.ipynb*, the notebook where all the magic happens;
